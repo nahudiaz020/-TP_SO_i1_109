@@ -1,3 +1,8 @@
+# TP Obligatorio Arquitectura y Sistemas. Diaz Nahuel
+
 Nombre: Santiago Di Viesti
 IP: 192.168.56.1
 HORA DE PUSH: 11:15
+
+
+
