@@ -11,6 +11,6 @@ d) ¿De qué forma se comunicaron ustedes?
 e) ¿Cuál es la mejor forma de comunicarse entre ustedes dentro de GitHub?
 
 a) Sí, ALFA ve los datos que cargaron los demás una vez que ellos hacen push al repositorio remoto y ALFA hace pull en su máquina local.
-b) Sí, si ALFA agrega un archivo y lo sube (push), los demás lo verán al hacer pull.
+b) Sí, si ALFA agrega un archivo y lo sube, los demás lo ven al hacer pull.
 c) Sí, igual que con ALFA, siempre que BETA haga push y los demás pull.
 d) Nos comunicamos por WhatsApp / Discord
